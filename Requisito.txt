@@ -1,0 +1,8 @@
+Estória do Usuário
+
+Como jogador pretendo:
+
+•	Visualizar um tabuleiro com três linhas e três colunas
+•	Pretendo escolher as opções X ou O que será utilizada para diferenciar um jogador do outro.
+•	Pretendo escolher quaisquer das nove posições disponíveis no tabuleiro irá jogar.
+•	E ao fim de cada partida, mostrar se foi empate ou qual jogador venceu.
